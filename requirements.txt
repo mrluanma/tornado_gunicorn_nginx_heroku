@@ -1,2 +1,2 @@
 gunicorn==20.0.4
-tornado==6.1
+tornado==6.3.3
